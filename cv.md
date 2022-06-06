@@ -4,6 +4,7 @@
 
 **Phone:** +375291967819
 **E-mail:** Viktoriakapustina92@gmail.com
+**Inst:**@viktoria_kapustina
 **Telegram:**@viktoria_kapustina
 
 ## About me:
