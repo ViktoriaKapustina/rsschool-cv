@@ -10,3 +10,31 @@
     font-family: Aleo;
     src: url("assets/fonts/Aleo-Italic.ttf");
 }
+header.page-header {
+    padding: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #9AAB8E;
+    height: 280px;
+    align-items: center;   
+}
+header.page-header > img {
+    float: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: px; /* Поля */
+    margin: px; /* Отступы */
+}
+header.page-header > h1 {
+    font: Aleo;
+    padding-top: 50px;
+    text-align: center;
+    font-size: 40px;
+    color: #323232;
+}
+header.page-header > h2 {
+    font: Aleo;
+    text-align: center;
+    font-size: 30px;
+    color: #323232;
+}
